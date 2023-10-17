@@ -69,12 +69,12 @@ nav{
                 content: 'HOME';
             }
         }
-        a.about-link{
+        &:nth-child(2){
             &::after{
                 content: 'ABOUT';
             }
         }
-        a.contact-link{
+        &:nth-child(3){
             &::after{
                 content: 'CONTACT';
             }
