@@ -15,21 +15,21 @@ const Sidebar =()=> (
             <NavLink exact="true" activeclassname='active' to="/">
                 <FontAwesomeIcon icon={faHome} color='#4d4d4e'/>
             </NavLink>
-            <NavLink exact="true" activeclassname='active' className='about-link' to="/about">
+            <NavLink exact="true" activeclassname='active' to="/about">
                 <FontAwesomeIcon icon={faUser} color='#4d4d4e'/>
             </NavLink>
-            <NavLink exact="true" activeclassname='active' className='contact-link' to="/contact">
+            <NavLink exact="true" activeclassname='active' to="/contact">
                 <FontAwesomeIcon icon={faEnvelope} color='#4d4d4e'/>
             </NavLink>
         </nav>
         <ul>
             <li>
-                <a target='_blank' rel='noreferrer' href='https://www.youtube.com/'>
+                <a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/sidharth-garhwal-01ab31221/'>
                     <FontAwesomeIcon icon={faLinkedin} color='4d4d4e'/>
                 </a>
             </li>
             <li>
-                <a target='_blank' rel='noreferrer' href='https://www.youtube.com/'>
+                <a target='_blank' rel='noreferrer' href='https://github.com/Sidhu102002'>
                     <FontAwesomeIcon icon={faGithub} color='4d4d4e'/>
                 </a>
             </li>
@@ -39,7 +39,7 @@ const Sidebar =()=> (
                 </a>
             </li>
             <li>
-                <a target='_blank' rel='noreferrer' href='https://www.youtube.com/'>
+                <a target='_blank' rel='noreferrer' href='https://github.com/Sidhu102002'>
                     <FontAwesomeIcon icon={faGithub} color='4d4d4e'/>
                 </a>
             </li>

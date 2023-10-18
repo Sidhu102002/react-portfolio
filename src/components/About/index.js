@@ -23,18 +23,13 @@ const About = () =>{
                  idx={15}
               />  
             </h1>
-            <p>It had been a simple realization that had changed Debra's life perspective. 
-                It was really so simple that she was embarrassed that she had lived the previous 
-                five years with the way she measured her worth. Now that she saw what she had been doing,
-                 she could see how sad it was. </p>
-            <p>It had been a simple realization that had changed Debra's life perspective. 
-                It was really so simple that she was embarrassed that she had lived the previous 
-                five years with the way she measured her worth. Now that she saw what she had been doing,
-                 she could see how sad it was.</p>
-            <p>It had been a simple realization that had changed Debra's life perspective. 
-                It was really so simple that she was embarrassed that she had lived the previous 
-                five years with the way she measured her worth. Now that she saw what she had been doing,
-                 she could see how sad it was.</p>
+            <p>Hello, I am Sidharth, a passionate and dedicated student currently pursuing my bachelor's degree
+                 at the prestigious Indian Institute of Technology (IIT) Indore. I am set to graduate in 2024, 
+                 and I am enthusiastic about sharing my skills and knowledge in the world of technology.  </p>
+            <p>My primary expertise lies in web development. I have a strong command of HTML, CSS, and JavaScript,
+                 which allows me to craft beautiful, interactive, and user-friendly web experiences. I'm also well-versed in
+                  ReactJS, a powerful library that enhances the efficiency and performance of web applications.</p>
+            <p>In addition to web development, I have a solid foundation in computer science fundamentals. I excel in C++ and have a deep understanding of data structures and algorithms. This knowledge equips me with problem-solving abilities and a keen analytical mindset, making me a versatile and resourceful developer.</p>
            </div>
            <div className='stage-cube-cont'>
             <div className='cubespinner'>
